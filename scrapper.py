@@ -85,16 +85,3 @@ def quote_quiz():
 
 
 quote_quiz()
-# quit2()
-
-# print(continue_play)
-# while continue_play == "y" or "Y":
-#     print(continue_play)
-
-
-# else:
-# if continue_play == "y" or "Y":
-#     print(continue_play)
-#     quote_quiz()
-# else:
-#     quit()
