@@ -10,3 +10,4 @@
 ### (1) Download the repo
 ### (2) Go to the directory where u have copied the repo and use command ***`pip install -r req.txt`*** to install the dependencies 
 ### (2) run file using command ***`python scrapper.py`***
+## Enjoy!!!
